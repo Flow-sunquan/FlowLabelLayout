@@ -2,7 +2,7 @@
 A label fluid layout and support center alignment, alignment on the left。
 
 # Effect
-![这里写图片描述](http://img.blog.csdn.net/20160412162614485)
+![这里写图片描述](https://github.com/Flow-sunquan/FlowLabelLayout/blob/master/pictures/effect_img.png)
 # Usage
 
 ```
